@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "exit 0"
+  },
   "dependencies": {
     "case": "^1.6.3"
   }
